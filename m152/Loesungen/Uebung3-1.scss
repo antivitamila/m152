@@ -1,0 +1,38 @@
+.person {
+    margin: 20px;
+    box-shadow: #777279 5px 5px;
+    display:inline-block;
+    border-radius: 5px;
+    background-color: grey;
+    text-align: center;
+
+.title {
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+button{
+    background-color:green;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}
