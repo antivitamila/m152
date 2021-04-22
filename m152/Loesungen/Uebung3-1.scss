@@ -6,6 +6,9 @@
     background-color: grey;
     text-align: center;
 
+
+
+
 .title {
     font-weight: bold;
     display: flex;
@@ -27,6 +30,12 @@ button{
     background-color:green;
     width: 90%;
     margin-bottom: 10px;
+    transition: all 2s;
+}
+
+button:hover { 
+    background-color: red;
+    transform: scale(10);
 }
 
 img {
